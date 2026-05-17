@@ -1,4 +1,8 @@
-<p align="left">👨‍💻 Estagiário de RPA na ACCO Brands Brasil<br>🎓 Estudante de Ciência da Computação na UNISAGRADO<br>📮 Contato chfleite@gmail.com</p>
+<p align="left">
+  👨‍💻 Estagiário de RPA na <a href="https://www.accobrands.com/" target="_blank">ACCO Brands Brasil</a><br>
+  🎓 Estudante de Ciência da Computação na <a href="https://unisagrado.edu.br/" target="_blank">UNISAGRADO</a><br>
+  📮 Contato: <a href="mailto:chfleite@gmail.com">chfleite@gmail.com</a>
+</p>
 
 ###
 
